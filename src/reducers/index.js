@@ -9,8 +9,8 @@ function user(state=initialState.currentUser, action) {
     return state;
   }
   return state;
- }
+}
 
- export default combineReducers({
+export default combineReducers({
   currentUser: user
 });

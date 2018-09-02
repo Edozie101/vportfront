@@ -4,4 +4,4 @@ export default {
     lastName: 'Smith',
     type: 'driver'
   }
-}
+};
